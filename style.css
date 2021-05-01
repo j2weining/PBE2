@@ -22,7 +22,7 @@ background-size: cover;
 } /* background*/
 
 form{
-    top: 260px;
+    top: 290px;
     margin-left: 80%;
     position:fixed;
     width: 200px;
@@ -42,13 +42,8 @@ form{
     padding: 15px;
 } /* footer*/
 
-div{
-    text-align: left;
-}
-
 .login{
     background-color:lightcoral;
-
 }
 
 .content{
